@@ -4,8 +4,6 @@
 
 This project consists of **two interactive Power BI dashboards** built using the Global Superstore dataset. The dashboards provide detailed insights into sales performance, profitability, customer behavior, and business trends.
 
- Dashboard 1: Sales & Profit Analysis
- Dashboard 2: Customer Analysis / RFM Insights
 ---
 
 ## 🎯 Objectives
