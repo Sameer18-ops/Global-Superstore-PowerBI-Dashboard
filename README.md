@@ -71,6 +71,7 @@ This dashboard focuses on customer behavior and segmentation.
 ## 📷 Dashboard Preview
 <img width="1334" height="750" alt="Screenshot 2026-04-07 162906" src="https://github.com/user-attachments/assets/7c3f3fc6-1a04-43ee-8dae-b4666769785f" />
 
+<img width="1334" height="750" alt="Screenshot 2026-04-07 162849" src="https://github.com/user-attachments/assets/3ece43f3-ae41-4a34-addb-ea5fa7998f2c" />
 
 
 ## 🚀 How to Use
