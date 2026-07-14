@@ -6,6 +6,19 @@ This project includes **two interactive Power BI dashboards** built using the Gl
 
 ---
 
+##  Dashboard Preview
+
+###  Performance Dashboard
+
+<img width="1334" height="750" alt="Screenshot 2026-04-07 162849" src="https://github.com/user-attachments/assets/9f0e37e7-548d-423e-84b1-e59b91a58e0b" />
+
+
+###  RFM Dashboard
+
+<img width="1334" height="750" alt="Screenshot 2026-04-07 162906" src="https://github.com/user-attachments/assets/44a8fe7d-5842-4893-9b2e-d42bfc6c2bb1" />
+
+---
+
 ##  Objectives
 
 * Analyze sales, revenue, and profit trends
@@ -77,19 +90,6 @@ This dashboard focuses on customer behavior and segmentation using RFM metrics.
 * Data Cleaning & Transformation
 * DAX (for RFM calculations & KPIs)
 * Data Visualization
-
----
-
-##  Dashboard Preview
-
-###  Performance Dashboard
-
-<img width="1334" height="750" alt="Screenshot 2026-04-07 162849" src="https://github.com/user-attachments/assets/9f0e37e7-548d-423e-84b1-e59b91a58e0b" />
-
-
-###  RFM Dashboard
-
-<img width="1334" height="750" alt="Screenshot 2026-04-07 162906" src="https://github.com/user-attachments/assets/44a8fe7d-5842-4893-9b2e-d42bfc6c2bb1" />
 
 
 ---
